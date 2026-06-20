@@ -2,7 +2,7 @@
 
 A modern, responsive developer portfolio showcasing my projects, skills, and professional experience as a Full-stack Developer and DevOps Engineer.
 
-🌐 **Live Site**: [https://yogesh.trojanx.in](https://yogesh.trojanx.in)
+🌐 **Live Site**: [https://yogeshms.up.railway.app/](https://yogeshms.up.railway.app/)
 
 ## ✨ Features
 
@@ -137,4 +137,4 @@ MIT License - feel free to use this template for your own portfolio!
 
 ---
 
-Made with <a href="https://www.trojanx.in">❤️</a> by <a href="https://www.yogesh.trojanx.in">Yogesh M S</a>
+Made with <a href="https://www.trojanx.in">❤️</a> by <a href="https://yogeshms.up.railway.app/">Yogesh M S</a>
